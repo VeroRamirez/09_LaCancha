@@ -1,0 +1,54 @@
+.cancha{
+	height: 500px;
+	background-color: #04B45F;
+	padding: 30px;
+}
+
+div>div{
+	border:1px white solid;
+	height: 100%;
+}
+
+.porteria1{
+	border:1px white solid;
+	height: 50%;
+	width:10%;
+	position:relative;
+	bottom:25%;
+}
+.porteria1 img{
+	float: right;
+	position: relative;
+	left: 10%;
+}
+
+.porteria2{
+	border:1px white solid;
+	height: 50%;
+	width:10%;
+	float: right;
+	position:relative;
+	bottom:75%;
+}
+
+.porteria2 img{
+	position: relative;
+	top:90%;
+	right: 30px;
+}
+
+.centro{
+    width: 21%;
+	height: 50%;
+	border-radius: 100%;
+	border:1px white solid;
+	position:relative;
+	top:25%;
+	left:40%;
+}
+
+.centro img{
+	position: absolute;
+	bottom: 130%;
+	left: 45%;
+}
